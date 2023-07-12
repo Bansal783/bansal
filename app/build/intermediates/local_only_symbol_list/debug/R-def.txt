@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id frag1
+id frag2
+id tvText
+id tvText2
+layout activity_main
+layout fragment_riet2
+layout fragment_rietfragment1
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.Bansal
+style Theme.Bansal
+xml backup_rules
+xml data_extraction_rules
